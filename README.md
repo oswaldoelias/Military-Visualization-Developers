@@ -5,3 +5,4 @@ Repository for CS 3311 Design Team 1116 (Military Visualization Developers)
 - Matthew Nilsen
 - Oswaldo Elias
 - Natalia Tovar
+- Marvin Crumbs
